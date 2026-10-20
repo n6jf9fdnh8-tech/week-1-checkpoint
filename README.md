@@ -1,0 +1,14 @@
+# Week 1 Checkpoint
+
+## My setup
+- Operating system: macOS
+- Editor: VS Code
+- Git version: 2.43.0
+- Git name: Mario C
+- Git email: n6jf9fdnh8@privaterelay.appleid.com
+
+## ACP log
+| # | What I changed | Commit message | Branch |
+|---|----------------|----------------|--------|
+| 1 | Created my first page | Add first page | main |
+| 2 | Added a sentence to index.html | Update paragraph in index | main |
