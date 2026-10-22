@@ -12,3 +12,4 @@
 |---|----------------|----------------|--------|
 | 1 | Created my first page | Add first page | main |
 | 2 | Added a sentence to index.html | Update paragraph in index | main |
+| 3 | Added about me section | Add about section | dev |
