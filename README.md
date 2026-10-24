@@ -1,5 +1,5 @@
 # Week 1 Checkpoint
-
+Live site: [https://n6jf9fdnh8-tech.github.io/week-1-checkpoint/](https://n6jf9fdnh8-tech.github.io/week-1-checkpoint/)
 ## My setup
 - Operating system: macOS
 - Editor: VS Code
